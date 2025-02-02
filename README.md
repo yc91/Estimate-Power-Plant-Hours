@@ -5,7 +5,7 @@ Software application to estimate the peak and non-peak hours for a given month a
 ![alt text](image.png)
 
 ## Requirements
-Python > v3.12
+Python > v3.12 \
 Poetry > v2.0.1
 
 ## Setup
