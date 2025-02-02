@@ -1,5 +1,5 @@
 # Estimate Power Plant Hours
-Software application to estimate the peak and non-peak hours for a given month and year
+Software application to estimate the peak and non-peak hours for a given month and year. Built using FastAPI
 
 ## Overview
 ![alt text](image.png)
